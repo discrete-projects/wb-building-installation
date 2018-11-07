@@ -1,0 +1,19 @@
+h1 {
+    color: green;
+  }
+  
+  body {
+    text-align: center;
+    margin: auto;
+  }
+
+  .text-holder {
+    background: lime;
+    width: 100%;
+    height: 50px;
+    position: absolute;
+    z-index: 10;
+    bottom: 5%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
